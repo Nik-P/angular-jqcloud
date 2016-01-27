@@ -15,7 +15,7 @@ angular.module('angular-jqcloud', []).directive('jqcloud', ['$parse','$compile',
       jqcOptions.push(opt);
     }
   }
-  
+   
   return {
     restrict: 'E',
     template: '<div></div>',
