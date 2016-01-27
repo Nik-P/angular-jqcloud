@@ -19,10 +19,10 @@
     "tag"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/mistic100/angular-jqcloud",
+  "homepage": "https://github.com/Nik-P/angular-jqcloud",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mistic100/angular-jqcloud.git"
+    "url": "git://github.com/Nik-P/angular-jqcloud.git"
   },
   "ignore": [
     "**/.*",
